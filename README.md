@@ -1,5 +1,5 @@
 # Spam-email-filtering
-This is a project to demonstarte how to implement spam filtering using logistic rggression. This project is implemented using scikit-learn in Python.
+This is a project to demonstarte how to implement spam filtering using logistic regression. This project is implemented using scikit-learn in Python.
 
 # How to use?
 1. Put the Jupyter Notebook and the email dataset (the csv file) in the same folder.
